@@ -1,0 +1,12 @@
+From: security-update@microsoft-support.xyz
+Subject: Urgent: Verify your account immediately
+
+Dear user,
+
+Your account has been suspended. Please click the link below to verify your password:
+
+https://microsoft-login-security-check.xyz/verify
+
+Failure to update your information will result in account termination.
+
+Thank you.
