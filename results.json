@@ -1,0 +1,28 @@
+{
+    "total_score": 115,
+    "classification": "High Risk (Likely Phishing)",
+    "details": {
+        "sender": "security-update@microsoft-support.xyz",
+        "subject": "Urgent: Verify your account immediately",
+        "urls": [
+            {
+                "url": "https://microsoft-login-security-check.xyz/verify",
+                "score": 55,
+                "reasons": [
+                    "Suspicious TLD detected: .xyz",
+                    "URL length unusually long"
+                ]
+            }
+        ],
+        "score_breakdown": [
+            "Sender uses free email provider",
+            "Keyword detected: urgent",
+            "Keyword detected: verify",
+            "Keyword detected: password",
+            "Keyword detected: suspended",
+            "Keyword detected: click",
+            "Suspicious TLD detected: .xyz",
+            "URL length unusually long"
+        ]
+    }
+}
